@@ -1,21 +1,24 @@
 # Author
 **Name:** Raquel Olivar
 
-**Date:** September 13, 2024
-
-## Data 110    
-
-### Using Emphasis / Ordered Lists
+**Date:** September 13, 2024 
+## 
+### Emphesis 
 1. *Example One: Italic*
 2. **Example Two: Bold**
 3. ***Example Three: Bold & Italic***
+   
+### Ordered List: Grade Levels
+1. First Grade
+2. Second Grade
+3. Third Grade
 
-### Unordered Lists 
+### Unordered List: Montgomery College Campuses
 - Rockville
 - Takoma Park
 - Germantown
 
-### Using Links 
+### Links 
 Here is the link to my [Data110 Repository](https://github.com/ddiaz63/Data110-32213](https://github.com/rvquel/Data110-22016))
 
 ### Images
@@ -29,15 +32,15 @@ To include a small piece of code within a line, use **inline code**. For example
 
 For larger sections of code, use **code blocks**. You can create a code block by surrounding your code with triple backticks (```` ``` ````). 
 
-### Tables
-## Simple Programming Languages Comparison
+### Table: NFL Team Names
 
-| Language   | Popularity | Easy to Learn |
-|------------|------------|---------------|
-| Python     | High       | Yes           |
-| JavaScript | High       | Yes           |
-| Java       | Moderate   | No            |
-| C++        | Moderate   | No            |
+|    State      |    City    |       Team Name      |
+|---------------|------------|----------------------|
+| Maryland      | Baltimore  | Ravens               |
+| Virginia      | N/A        | N/A                  |
+| Washington DC | DC         | Washington Commanders|
+| Delaware      | N/A        | N/A                  |
+> Fun Fact: 28 US states do not have an NFL team
 
 ### Task List
 - [x] Laundry
@@ -49,6 +52,4 @@ For larger sections of code, use **code blocks**. You can create a code block by
 - [ ] Grocery Shopping
 
 ### Footnotes
-The goal of this assignment is to build your Markdown skills and apply them in a real-world platform[^1].
-
-[^1]: This assignment is intended to help you get hands-on experience with Markdown, which is widely used for documentation and content formatting on various platforms.
+My goal with earning my certification in Data Science is to be able to develop my career growth in the finace tech industry.
