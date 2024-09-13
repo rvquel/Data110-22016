@@ -2,7 +2,8 @@
 **Name:** Raquel Olivar
 
 **Date:** September 13, 2024 
-## 
+##  Data 110 - Week 1 Assignment
+
 ### Emphesis 
 1. *Example One: Italic*
 2. **Example Two: Bold**
@@ -51,5 +52,5 @@ For larger sections of code, use **code blocks**. You can create a code block by
 
 - [ ] Grocery Shopping
 
-### Footnotes
-My goal with earning my certification in Data Science is to be able to develop my career growth in the finace tech industry.
+## Footnote: Why I choose this course?
+> My goal with earning my certification in Data Science is to be able to develop my career growth in the finace tech industry.
