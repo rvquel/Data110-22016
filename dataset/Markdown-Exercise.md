@@ -19,3 +19,5 @@
 Here is the link to my [Data110 Repository](https://github.com/ddiaz63/Data110-32213](https://github.com/rvquel/Data110-22016))
 
 ### Images
+This is Toby!
+![Toby](Toby.jpeg)
