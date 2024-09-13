@@ -20,7 +20,7 @@ Here is the link to my [Data110 Repository](https://github.com/ddiaz63/Data110-3
 
 ### Images
 This is a Lemon
-![Lemon](Lemon.jpg)
+![Lemon](dataset/alicja-gancarz-B-pIQ58-eus-unsplash.jpg)
  
 ### Blockquotes
 > "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it" – Ferris Bueller
